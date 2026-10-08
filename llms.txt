@@ -1,11 +1,11 @@
-# Claudia Gabriela Domenzain Ortega
+# Gabriela Domenzain
 
 > Ejecutiva mexicana de comunicación institucional y planeación estratégica, con más de
 > 30 años de trayectoria en el sector público, educativo, social y en televisión nacional.
 > Ciudad de México. Actualmente abierta a posiciones de liderazgo en comunicación
 > institucional, relaciones públicas, asuntos públicos y planeación estratégica.
 
-Canonical: https://paola-md.github.io/claudia-domenzain/ · updated 2026-10-08
+Canonical: https://paola-md.github.io/gabriela-domenzain/ · updated 2026-10-08
 
 English summary: Mexico City–based communications and strategic-planning executive with
 30+ years across federal government (IMPI, INDAUTOR), non-profit and national television.
@@ -14,14 +14,11 @@ Mexico's official primary-school textbooks for the first time, and led strategic
 and risk management (ISO 31000, ISO 9001). Spanish (native) and English (advanced).
 Open to leadership roles in institutional communications, public affairs, PR and planning.
 
-Also known as Claudia Domenzain, Claudia G. Domenzain, Claudia Gabriela Domenzain and
-Claudia Domenzain Ortega. All refer to the same person.
-
 ## Machine-readable versions
 
-- [Full profile and CV as Markdown](https://paola-md.github.io/claudia-domenzain/index.md)
-- [CV as JSON Resume](https://paola-md.github.io/claudia-domenzain/cv.json)
-- [CV as PDF (2 pages)](https://paola-md.github.io/claudia-domenzain/assets/CV_Claudia_Domenzain.pdf)
+- [Full profile and CV as Markdown](https://paola-md.github.io/gabriela-domenzain/index.md)
+- [CV as JSON Resume](https://paola-md.github.io/gabriela-domenzain/cv.json)
+- [CV as PDF (2 pages)](https://paola-md.github.io/gabriela-domenzain/assets/CV_Gabriela_Domenzain.pdf)
 
 ## Experience
 

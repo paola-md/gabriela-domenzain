@@ -1,12 +1,12 @@
 {
  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
  "basics": {
-  "name": "Claudia Gabriela Domenzain Ortega",
+  "name": "Gabriela Domenzain",
   "label": "Comunicación institucional · Planeación estratégica · Relaciones públicas",
-  "image": "https://paola-md.github.io/claudia-domenzain/assets/foto.jpg",
+  "image": "https://paola-md.github.io/gabriela-domenzain/assets/foto.jpg",
   "email": "cgdomenzain@gmail.com",
   "phone": "+52 55 5055 1635",
-  "url": "https://paola-md.github.io/claudia-domenzain/",
+  "url": "https://paola-md.github.io/gabriela-domenzain/",
   "summary": "Ejecutiva de comunicación institucional y planeación estratégica con más de 30 años de trayectoria en el sector público, educativo, social y en televisión nacional. Ha creado áreas de comunicación desde cero, llevado la propiedad intelectual a los libros de texto del país y coordinado planeación, gestión de riesgos y mejora continua bajo estándares ISO. Abierta a posiciones de liderazgo.",
   "location": {
    "city": "Ciudad de México",
@@ -161,7 +161,7 @@
   }
  ],
  "meta": {
-  "canonical": "https://paola-md.github.io/claudia-domenzain/cv.json",
+  "canonical": "https://paola-md.github.io/gabriela-domenzain/cv.json",
   "lastModified": "2026-10-08"
  }
 }

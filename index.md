@@ -1,8 +1,8 @@
-# Claudia Gabriela Domenzain Ortega
+# Gabriela Domenzain
 
 Comunicación institucional · Planeación estratégica · Relaciones públicas
 Ciudad de México · cgdomenzain@gmail.com · +52 55 5055 1635
-https://paola-md.github.io/claudia-domenzain/ · actualizado 2026-10-08
+https://paola-md.github.io/gabriela-domenzain/ · actualizado 2026-10-08
 
 Abierta a posiciones de liderazgo en comunicación institucional, relaciones públicas,
 asuntos públicos y planeación estratégica, en el sector público, privado o social.

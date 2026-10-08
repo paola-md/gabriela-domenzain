@@ -1,10 +1,10 @@
-# Claudia Gabriela Domenzain Ortega
+# Gabriela Domenzain
 
 Sitio personal estático: comunicación institucional, planeación estratégica y relaciones públicas.
 
 - `index.html`: la página.
 - `assets/site.css`: estilos.
-- `assets/CV_Claudia_Domenzain.pdf`: CV descargable.
+- `assets/CV_Gabriela_Domenzain.pdf`: CV descargable.
 - Para añadir una foto, guarda una imagen vertical como `assets/foto.jpg`.
 
 ## Versiones legibles por máquinas (LLMs, buscadores, ATS)
