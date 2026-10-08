@@ -1,0 +1,167 @@
+{
+ "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+ "basics": {
+  "name": "Claudia Gabriela Domenzain Ortega",
+  "label": "Comunicación institucional · Planeación estratégica · Relaciones públicas",
+  "image": "https://paola-md.github.io/claudia-domenzain/assets/foto.jpg",
+  "email": "cgdomenzain@gmail.com",
+  "phone": "+52 55 5055 1635",
+  "url": "https://paola-md.github.io/claudia-domenzain/",
+  "summary": "Ejecutiva de comunicación institucional y planeación estratégica con más de 30 años de trayectoria en el sector público, educativo, social y en televisión nacional. Ha creado áreas de comunicación desde cero, llevado la propiedad intelectual a los libros de texto del país y coordinado planeación, gestión de riesgos y mejora continua bajo estándares ISO. Abierta a posiciones de liderazgo.",
+  "location": {
+   "city": "Ciudad de México",
+   "countryCode": "MX"
+  },
+  "profiles": []
+ },
+ "work": [
+  {
+   "name": "IMPI · Instituto Mexicano de la Propiedad Industrial",
+   "position": "Subdirectora de Planeación Estratégica",
+   "startDate": "2025",
+   "endDate": "2026",
+   "location": "Ciudad de México",
+   "highlights": [
+    "Coordinó planeación estratégica, mejora continua y gestión de riesgos, con diagnósticos FODA.",
+    "Aplicó ISO 31000:2018 e ISO 9001:2015 a la planeación institucional."
+   ]
+  },
+  {
+   "name": "IMPI · Instituto Mexicano de la Propiedad Industrial",
+   "position": "Especialista en Propiedad Industrial",
+   "startDate": "2025",
+   "endDate": "2025",
+   "location": "Ciudad de México",
+   "highlights": [
+    "Coordinó la promoción institucional y la vinculación con las seis oficinas regionales del IMPI."
+   ]
+  },
+  {
+   "name": "INDAUTOR · Instituto Nacional del Derecho de Autor",
+   "position": "Coordinadora de Asuntos Institucionales y Comunicación Social",
+   "startDate": "2019",
+   "endDate": "2024",
+   "location": "Ciudad de México",
+   "highlights": [
+    "Creó y consolidó el área de Comunicación Institucional con una estrategia integral de comunicación y transformación digital.",
+    "Sus iniciativas de difusión lograron, por primera vez, contenidos sobre derecho de autor en los libros de texto oficiales de primaria."
+   ]
+  },
+  {
+   "name": "Asociación de Exalumnas del Colegio del Sagrado Corazón México",
+   "position": "Coordinadora General",
+   "startDate": "2007",
+   "endDate": "2017",
+   "location": "Ciudad de México",
+   "highlights": [
+    "Dirigió la procuración de fondos y la comunicación institucional.",
+    "Coordinó la línea editorial y la producción de la revista Exasac."
+   ]
+  },
+  {
+   "name": "Canal 22, Canal 40, TV Azteca, Imevisión",
+   "position": "Producción y coordinación de contenidos",
+   "startDate": "1990",
+   "endDate": "2007",
+   "location": "Ciudad de México",
+   "highlights": [
+    "Coordinó proyectos de producción y contenido para televisión nacional: planeación, creación, imagen creativa, operación y administración de recursos."
+   ]
+  }
+ ],
+ "education": [
+  {
+   "institution": "Universidad Intercontinental (UIC)",
+   "area": "Ciencias de la Comunicación",
+   "studyType": "Licenciatura"
+  },
+  {
+   "institution": "Bentley University",
+   "area": "International Students of English",
+   "studyType": "Programa de inglés"
+  }
+ ],
+ "certificates": [
+  {
+   "name": "Gestión de Riesgos ISO 31000:2018"
+  },
+  {
+   "name": "Interpretación de la Norma ISO 9001:2015"
+  },
+  {
+   "name": "Planeación Estratégica en Redes Sociales",
+   "issuer": "ITAM"
+  },
+  {
+   "name": "Derechos de Autor",
+   "issuer": "INDAUTOR"
+  }
+ ],
+ "skills": [
+  {
+   "name": "Comunicación institucional",
+   "keywords": [
+    "comunicación social",
+    "imagen corporativa",
+    "posicionamiento institucional",
+    "relaciones públicas",
+    "asuntos públicos"
+   ]
+  },
+  {
+   "name": "Planeación estratégica",
+   "keywords": [
+    "FODA",
+    "gestión de riesgos",
+    "ISO 31000",
+    "mejora continua",
+    "ISO 9001"
+   ]
+  },
+  {
+   "name": "Comunicación digital",
+   "keywords": [
+    "transformación digital",
+    "redes sociales",
+    "difusión de contenidos"
+   ]
+  },
+  {
+   "name": "Vinculación",
+   "keywords": [
+    "relaciones interinstitucionales",
+    "coordinación de oficinas regionales"
+   ]
+  },
+  {
+   "name": "Producción",
+   "keywords": [
+    "televisión",
+    "producción audiovisual",
+    "coordinación editorial"
+   ]
+  },
+  {
+   "name": "Liderazgo",
+   "keywords": [
+    "creación de áreas",
+    "procuración de fondos",
+    "administración de recursos"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Español",
+   "fluency": "Lengua materna"
+  },
+  {
+   "language": "Inglés",
+   "fluency": "Avanzado (Teacher's Degree)"
+  }
+ ],
+ "meta": {
+  "canonical": "https://paola-md.github.io/claudia-domenzain/cv.json",
+  "lastModified": "2026-10-08"
+ }
+}
