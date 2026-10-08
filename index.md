@@ -18,24 +18,24 @@ bajo estándares ISO.
 
 ## Logros
 
-- Sus iniciativas de difusión lograron, por primera vez, que los libros de texto oficiales de primaria incluyeran contenidos sobre derecho de autor (INDAUTOR, 2019–2024).
-- Creó y consolidó el área de Comunicación Institucional del INDAUTOR, con una estrategia integral de comunicación y transformación digital (INDAUTOR, 2019–2024).
-- Coordinó la promoción institucional y la vinculación con las seis oficinas regionales del IMPI, y asumió ese mismo año la Subdirección de Planeación Estratégica (IMPI, 2025).
+- Sus iniciativas de difusión lograron, por primera vez, que los libros de texto oficiales de primaria incluyeran contenidos sobre derecho de autor (INDAUTOR, 2018–2024).
+- Creó y consolidó el área de Comunicación Institucional del INDAUTOR, con una estrategia integral de comunicación y transformación digital (INDAUTOR, 2018–2024).
+- Coordinó la promoción institucional y la vinculación con las seis oficinas regionales del IMPI, y en junio de 2025 ascendió a Subdirectora Divisional de Planeación Estratégica (IMPI, 2025).
 - Coordinó planeación estratégica, gestión de riesgos y mejora continua con diagnósticos FODA y los marcos ISO 31000 e ISO 9001, en los que está certificada (IMPI, 2025–2026).
 - Diecisiete años coordinando producción y contenidos en Canal 22, Canal 40, TV Azteca e Imevisión (1990–2007).
 
 ## Experiencia
 
-### Subdirectora de Planeación Estratégica · IMPI, Instituto Mexicano de la Propiedad Industrial · 2025–2026
+### Subdirectora Divisional de Planeación Estratégica · IMPI, Instituto Mexicano de la Propiedad Industrial · jun. 2025–2026
 
 - Coordinó planeación estratégica, mejora continua y gestión de riesgos, con diagnósticos FODA para identificar oportunidades de mejora y mitigar riesgos estratégicos.
 - Aplicó los marcos ISO 31000:2018 (gestión de riesgos) e ISO 9001:2015 (gestión de calidad) a la planeación institucional.
 
-### Especialista en Propiedad Industrial · IMPI · 2025
+### Subdirectora de Planeación Estratégica · IMPI · abr.–jun. 2025
 
 - Coordinó la promoción institucional y la vinculación con las seis oficinas regionales del IMPI.
 
-### Coordinadora de Asuntos Institucionales y Comunicación Social · INDAUTOR, Instituto Nacional del Derecho de Autor · 2019–2024
+### Coordinadora de Asuntos Institucionales y Comunicación Social · INDAUTOR, Instituto Nacional del Derecho de Autor · 2018–2024
 
 - Creó y consolidó el área de Comunicación Institucional con una estrategia integral de comunicación y transformación digital que fortaleció el posicionamiento nacional e internacional del Instituto.
 - Impulsó iniciativas de difusión que derivaron, por primera vez, en contenidos sobre derecho de autor en los libros de texto oficiales de primaria.
